@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/algorithmbasic/pom.xml" />
+        <option value="$PROJECT_DIR$/leetcode-top-100/pom.xml" />
       </list>
     </option>
   </component>
