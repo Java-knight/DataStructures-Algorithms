@@ -6,6 +6,6 @@ package toplikedquestions;
 public class Problem_0005_LongestPalindromeSubstring {
 
     public String longestPalindrome(String s) {
-
+        return s;
     }
 }
