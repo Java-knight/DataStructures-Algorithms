@@ -5,7 +5,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-// 1:11
 // 四数之和
 // https://leetcode.cn/problems/4sum/
 public class Problem_0018_4Sum {
