@@ -4,7 +4,7 @@ package toplikedquestions;
 
 // x的平方根
 // https://leetcode.cn/problems/sqrtx/
-public class Problem_0070_SqrtX {
+public class Problem_0069_SqrtX {
     // x不可能输入负数
     // 二分法, 每次都看mid*mid和x的关系, mid*mid > x, right向左移动; mid*mid <= x, left向右移动
     // 使用long去接变量, 防止溢出

@@ -5,7 +5,6 @@ package toplikedquestions;
 // https://leetcode.cn/problems/median-of-two-sorted-arrays/
 public class Problem_0004_MedianOfTwoSortedArrays {
 
-
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int size = nums1.length + nums2.length;
         boolean even = (size & 1) == 0;  // 是否是偶数
@@ -135,9 +134,5 @@ public class Problem_0004_MedianOfTwoSortedArrays {
             }
         }
         return Math.min(arr1[s1], arr2[s2]);
-    }
-
-    public static void main(String[] args) {
-
     }
 }
