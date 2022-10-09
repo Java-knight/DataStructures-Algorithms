@@ -89,7 +89,7 @@ public class Problem_0103_BinaryTreeZigzagLevelOrderTraversal {
 //        return result;
 //    }
 
-    public static class TreeNode {
+    public class TreeNode {
         int val;
         TreeNode left;
         TreeNode right;
